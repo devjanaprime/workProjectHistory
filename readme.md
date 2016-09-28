@@ -67,7 +67,7 @@ AliEnd: for [Gunpile Games](http://gunpilegames.com/) (2012, Android)
 ----------------------
 ![AliEnd](images/aliend.png)
 
-Roy G Beats (2012, PC/Mac)
+Roy G Beats (2012, [PC](https://devjana.itch.io/roygbeats)/Mac)
 ------------------------
 ![Roy G Beats](http://1.bp.blogspot.com/-tWYUvz3VuqE/Tpm0Ak3licI/AAAAAAAAAAg/TtQ7fDIA2Dk/s1600/RoyGBeats_0_9c2+2011-10-07+13-50-44-04.jpg)
 
