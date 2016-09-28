@@ -30,12 +30,12 @@ Cemetery Sprint made it on [the Donutron](http://thedonutron.com/) (2016)!
 ![Donutron](http://devjana.net/wp-content/uploads/2016/04/cemeteryDOnutron.jpg)
 
 
-[Image Metrics](http://www.image-metrics.com/): Augmented Reality mobile facial animation apps (2015-2016,iOS/Android)
+[Image Metrics](http://www.image-metrics.com/): Augmented Reality mobile facial animation apps (2015-2016)
 ---------------------------------------------------------------------
 L'Oreal Makeup Genius - [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjVzojFtbLPAhVINiYKHRgrBFEQFggfMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmakeup-genius%2Fid871897775%3Fmt%3D8&usg=AFQjCNFS-zj4y0esx-YK822sZ8BmrDv-2g&bvm=bv.134052249,d.cWw),[Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjVzojFtbLPAhVINiYKHRgrBFEQFggtMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.lorealparisandroid%26hl%3Den&usg=AFQjCNGlqT9czLed-ik4mfaJpOmxqyKU9A&bvm=bv.134052249,d.cWw)
 -------------
 ![MUG](images/mug.png)
-[Turned](http://www.image-metrics.com/are-you-turned/) -  [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggcMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fturned-zombie-photo-real-effects%2Fid1004128986%3Fmt%3D8&usg=AFQjCNGrFuOgmqkN3-oLaBY-x4YcifxhTQ&bvm=bv.134052249,d.cWw), [Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggqMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.helix%26hl%3Den&usg=AFQjCNFBVW_vy0lnZeLmpy7sXfzlZZBXrw&bvm=bv.134052249,d.cWw))
+[Turned](http://www.image-metrics.com/are-you-turned/) -  [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggcMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fturned-zombie-photo-real-effects%2Fid1004128986%3Fmt%3D8&usg=AFQjCNGrFuOgmqkN3-oLaBY-x4YcifxhTQ&bvm=bv.134052249,d.cWw), [Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggqMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.helix%26hl%3Den&usg=AFQjCNFBVW_vy0lnZeLmpy7sXfzlZZBXrw&bvm=bv.134052249,d.cWw)
 ------
 ![Turned](images/turned.png)
 [Die Hard Fan](http://www.nissanusa.com/diehard-fan-app/) - [iOS](https://itunes.apple.com/app/id1044733384?mt=8), [Android](https://play.google.com/store/apps/details?id=com.imagemetrics.nissanncaaf)
@@ -72,22 +72,22 @@ MGM Interactive/Cheyenne Mountain Games: Stargate Resistance (2010, PC)
 ------------------------
 ![Stargate Resistance](http://images.eurogamer.net/articles//a/8/6/8/9/6/8/stargate_resistance.jpg.jpg/EG11/resize/722x-1/format/jpg/free-stargate-resistance-hd-desktop-wallpaper.jpg)
 
-PsychoDelic (2010, Mac/PC)
+PsychoDelic (2010, PC)
 --------------------------
 -IMAGE NEEDED-
 
-Cat's Cradle Studios: Hexorcist (2010, iPhone)
+Cat's Cradle Studios: Hexorcist (2010, iOS)
 ------------------------
 ![Hexorcist](images/hexorcist.png)
 
-Geotones (2009, iPhone)
+Geotones (2009, iOS)
 -----------------------
 ![GeoTones](images/geotones.png)
 
-Sea Snake (2009, iPhone)
+Sea Snake (2009, iOS)
 -----------------------
 ![Sea Snake](http://static.garagegames.com/static/pg/torquepowered/devinterviews/sea-snake/seaSnake2.jpg)
 
-Squaritory (2008, Mac/PC)
---------------------------
+Squaritory (2008, PC)
+---------------------
 -IMAGE NEEDED-
