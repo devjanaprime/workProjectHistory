@@ -6,7 +6,7 @@ Who am I and What Have I Done?
 
 [My MobyGames Profile](http://www.mobygames.com/developer/sheet/view/developerId,426845/)
 
-Currently: Instructor/Software Engineer @ [Prime Digital Academy](http://primeacademy.io/)
+Proud Instructor/Software Engineer @ [Prime Digital Academy](http://primeacademy.io/)
 ------------------------------------------------------------------------------------------
 ![Prime](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/450/s300/prime-20logo-20color.png)
 
