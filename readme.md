@@ -84,13 +84,13 @@ Cat's Cradle Studios: Hexorcist (2010, iOS)
 ------------------------
 ![Hexorcist](images/hexorcist.png)
 
-Geotones (2009, iOS)
------------------------
-![GeoTones](images/geotones.png)
-
 Sea Snake (2009, iOS)
 -----------------------
 ![Sea Snake](http://static.garagegames.com/static/pg/torquepowered/devinterviews/sea-snake/seaSnake2.jpg)
+
+Geotones (2009, iOS)
+-----------------------
+![GeoTones](images/geotones.png)
 
 Squaritory (2008, PC)
 ---------------------
