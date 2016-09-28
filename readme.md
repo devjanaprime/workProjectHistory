@@ -15,7 +15,7 @@ Currently: Instructor/Software Engineer @ [Prime Digital Academy](http://primeac
 Projects
 =========
 
-[DevNAri](https://www.facebook.com/devnari/), [Newt One](https://twitter.com/dnanewtone) (in development)
+[DevNAri](https://www.facebook.com/devnari/): [Newt One](https://twitter.com/dnanewtone) (in development)
 -----------------
 ![Newt One](https://pbs.twimg.com/media/Cq_p22XWcAAEery.jpg)
 at TEDx Minne 2016
@@ -30,15 +30,15 @@ Cemetery Sprint made it on [the Donutron](http://thedonutron.com/) (2016)!
 ![Donutron](http://devjana.net/wp-content/uploads/2016/04/cemeteryDOnutron.jpg)
 
 
-[Image Metrics](http://www.image-metrics.com/), Augmented Reality mobile facial animation apps (2015-2016,iOS/Android)
+[Image Metrics](http://www.image-metrics.com/): Augmented Reality mobile facial animation apps (2015-2016,iOS/Android)
 ---------------------------------------------------------------------
-Makeup Genius [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjVzojFtbLPAhVINiYKHRgrBFEQFggfMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmakeup-genius%2Fid871897775%3Fmt%3D8&usg=AFQjCNFS-zj4y0esx-YK822sZ8BmrDv-2g&bvm=bv.134052249,d.cWw),[Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjVzojFtbLPAhVINiYKHRgrBFEQFggtMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.lorealparisandroid%26hl%3Den&usg=AFQjCNGlqT9czLed-ik4mfaJpOmxqyKU9A&bvm=bv.134052249,d.cWw)
+L'Oreal Makeup Genius - [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjVzojFtbLPAhVINiYKHRgrBFEQFggfMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fmakeup-genius%2Fid871897775%3Fmt%3D8&usg=AFQjCNFS-zj4y0esx-YK822sZ8BmrDv-2g&bvm=bv.134052249,d.cWw),[Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjVzojFtbLPAhVINiYKHRgrBFEQFggtMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.lorealparisandroid%26hl%3Den&usg=AFQjCNGlqT9czLed-ik4mfaJpOmxqyKU9A&bvm=bv.134052249,d.cWw)
 -------------
 ![MUG](images/mug.png)
-[Turned](http://www.image-metrics.com/are-you-turned/) [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggcMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fturned-zombie-photo-real-effects%2Fid1004128986%3Fmt%3D8&usg=AFQjCNGrFuOgmqkN3-oLaBY-x4YcifxhTQ&bvm=bv.134052249,d.cWw), [Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggqMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.helix%26hl%3Den&usg=AFQjCNFBVW_vy0lnZeLmpy7sXfzlZZBXrw&bvm=bv.134052249,d.cWw)
+[Turned](http://www.image-metrics.com/are-you-turned/) -  [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggcMAA&url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fturned-zombie-photo-real-effects%2Fid1004128986%3Fmt%3D8&usg=AFQjCNGrFuOgmqkN3-oLaBY-x4YcifxhTQ&bvm=bv.134052249,d.cWw), [Android](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjatvzjtbLPAhXC4CYKHQBvDfcQFggqMAI&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.imagemetrics.helix%26hl%3Den&usg=AFQjCNFBVW_vy0lnZeLmpy7sXfzlZZBXrw&bvm=bv.134052249,d.cWw))
 ------
 ![Turned](images/turned.png)
-[Die Hard Fan](http://www.nissanusa.com/diehard-fan-app/)[iOS](https://itunes.apple.com/app/id1044733384?mt=8), [Android](https://play.google.com/store/apps/details?id=com.imagemetrics.nissanncaaf)
+[Die Hard Fan](http://www.nissanusa.com/diehard-fan-app/) - [iOS](https://itunes.apple.com/app/id1044733384?mt=8), [Android](https://play.google.com/store/apps/details?id=com.imagemetrics.nissanncaaf)
 ------------
 ![Die Hard Fan](images/dhf.png)
 
@@ -50,25 +50,25 @@ Cemetery Sprint (2015, Mac/PC/Web)
 --------------------------
 -IMAGE NEEDED-
 
-Preferred Interactive, Web-based architectural rendering (2013-2014)
+Preferred Interactive: Web-based architectural rendering (2013-2014)
 --------------------------------------------
 ![Preferred Interactive](images/kare11.png)
 
-BioLucid, Medical iPad Apps (2012-2013)
+BioLucid: Medical iPad Apps (2012-2013)
 ----------------------
 ![Lucid](images/lucid.png)
 
 
-Freelance (for [Gunpile Games](http://gunpilegames.com/)), AliEnd (2012, Android)
+AliEnd: for [Gunpile Games](http://gunpilegames.com/) (2012, Android)
 ----------------------
 ![AliEnd](images/aliend.png)
 
-Solo project while teaching, Roy G Beats (2012, PC/Mac)
+Roy G Beats (2012, PC/Mac)
 ------------------------
 ![Roy G Beats](http://1.bp.blogspot.com/-tWYUvz3VuqE/Tpm0Ak3licI/AAAAAAAAAAg/TtQ7fDIA2Dk/s1600/RoyGBeats_0_9c2+2011-10-07+13-50-44-04.jpg)
 
 
-MGM Interactive/Cheyenne Mountain Games, Stargate Resistance (2010, PC)
+MGM Interactive/Cheyenne Mountain Games: Stargate Resistance (2010, PC)
 ------------------------
 ![Stargate Resistance](http://images.eurogamer.net/articles//a/8/6/8/9/6/8/stargate_resistance.jpg.jpg/EG11/resize/722x-1/format/jpg/free-stargate-resistance-hd-desktop-wallpaper.jpg)
 
@@ -76,11 +76,11 @@ PsychoDelic (2010, Mac/PC)
 --------------------------
 -IMAGE NEEDED-
 
-Hexorcist (2010, iPhone)
+Cat's Cradle Studios: Hexorcist (2010, iPhone)
 ------------------------
 ![Hexorcist](images/hexorcist.png)
 
-Cat's Cradle Studios, Geotones (2009, iPhone)
+Geotones (2009, iPhone)
 -----------------------
 ![GeoTones](images/geotones.png)
 
