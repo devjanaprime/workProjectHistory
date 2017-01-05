@@ -15,7 +15,7 @@ Proud Instructor/Software Engineer @ [Prime Digital Academy](http://primeacademy
 Projects
 =========
 
-[DevNAri](https://www.facebook.com/devnari/): [Newt One](https://twitter.com/dnanewtone) (in development)
+[DevNAri](http://devnari.com/): [Newt One](https://www.facebook.com/devnari/) (in development)
 -----------------
 ![Newt One](https://pbs.twimg.com/media/Cq_p22XWcAAEery.jpg)
 at TEDx Minne 2016
@@ -27,7 +27,7 @@ at MinneBar 2016
 
 Cemetery Sprint made it on [the Donutron](http://thedonutron.com/) (2016)!
 -------------------------------------
-![Donutron](http://devjana.net/wp-content/uploads/2016/04/cemeteryDOnutron.jpg)
+![Donutron](images/donutron0.png)
 
 
 [Image Metrics](http://www.image-metrics.com/): Augmented Reality mobile facial animation apps (2015-2016)
@@ -44,15 +44,15 @@ L'Oreal Makeup Genius - [iOS](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&so
 
 Baby Fart Flyer (2015, Web)
 --------------------------
--IMAGE NEEDED-
+![BFF](images/babyFartFlyer.png)
 
 Panda Match (2015, Mac/PC)
 --------------------------
 -IMAGE NEEDED-
 
-Cemetery Sprint (2015, Mac/PC/Web)
+Cemetery Sprint (2015, Mac/PC/Web/Donutron)
 --------------------------
--IMAGE NEEDED-
+![BFF](images/donutron1.png)
 
 Preferred Interactive: Web-based architectural rendering (2013-2014)
 --------------------------------------------
