@@ -18,9 +18,19 @@ Projects
 [DevNAri](http://devnari.com/): [Newt One](https://www.facebook.com/devnari/) (in development)
 -----------------
 ![Newt One](https://pbs.twimg.com/media/Cq_p22XWcAAEery.jpg)
-at TEDx Minne 2016
-------------------
+
+at MinneDemo 2/2016
+------------------------
+![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
+
+at TEDx Minneapolis 2016
+------------------------
 ![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
+
+at IGDA TC June 2016
+--------------------
+![IGDA](http://devjana.net/client/uploads/igdatc6-2016.png)
+
 at MinneBar 2016
 ----------------
 ![Minnebar](http://devjana.apps-1and1.com/wp-content/uploads/2016/04/ariWatchingArcade.jpg)
