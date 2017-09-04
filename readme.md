@@ -19,9 +19,21 @@ Projects
 -----------------
 ![Newt One](https://pbs.twimg.com/media/Cq_p22XWcAAEery.jpg)
 
-at MinneDemo 2/2016
+at 2D Con 8/2017
 ------------------------
 ![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
+
+at GlitchCon 5/2017
+------------------------
+![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
+
+at MinneDemo 2/2017
+------------------------
+![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
+
+at Gamer's Rhapsody 2016
+------------------------
+![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
 
 at TEDx Minneapolis 2016
 ------------------------
