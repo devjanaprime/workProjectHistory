@@ -6,51 +6,58 @@ Who am I and What Have I Done?
 
 [My MobyGames Profile](http://www.mobygames.com/developer/sheet/view/developerId,426845/)
 
-Proud Instructor/Software Engineer @ [Prime Digital Academy](http://primeacademy.io/)
+Director of Instruction: Full Stack Development @ [Prime Digital Academy](http://primeacademy.io/)
 ------------------------------------------------------------------------------------------
 ![Prime](https://course_report_production.s3.amazonaws.com/rich/rich_files/rich_files/450/s300/prime-20logo-20color.png)
 
-[Prime in Strib 9-2016](http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/)
+[Prime in Strib 9-2016](http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/): Article pic is from one of my cohort's graduations.
 
-Project History
+Project/Presentation History
 =========
 
 [DevNAri](http://devnari.com/): [Newt One](https://www.facebook.com/devnari/) (in development)
 -----------------
 ![Newt One](https://pbs.twimg.com/media/Cq_p22XWcAAEery.jpg)
 
-at 2D Con 8/2017
+2D Con 8/2017
 ------------------------
 ![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
 
-at GlitchCon 5/2017
+GlitchCon 5/2017
 ------------------------
 ![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
 
-at MinneDemo 2/2017
+MinneDemo 2/2017
 ------------------------
 ![MinneDemo 2016](http://devjana.net/client/uploads/minneDemo.jpg)
 
-at Gamer's Rhapsody 2016
+JavaScriptMN 2016
 ------------------------
 ![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
 
-at TEDx Minneapolis 2016
+Gamer's Rhapsody 2016
 ------------------------
 ![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
 
-at IGDA TC June 2016
+IGDATC 10/2016
+------------------------
+![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
+
+TEDx Minneapolis 2016
+------------------------
+![TEDx 2016](http://devjana.apps-1and1.com/wp-content/uploads/2016/08/smilingHeadphones_b-604x270.png)
+
+IGDATC June 2016
 --------------------
 ![IGDA](http://devjana.net/client/uploads/igdatc6-2016.png)
 
-at MinneBar 2016
+MinneBar 2016
 ----------------
 ![Minnebar](http://devjana.apps-1and1.com/wp-content/uploads/2016/04/ariWatchingArcade.jpg)
 
-Cemetery Sprint made it on [the Donutron](http://thedonutron.com/) (2016)!
+Cemetery Sprint made it on [the Donutron](http://thedonutron.com/) (2016)
 -------------------------------------
 ![Donutron](images/donutron0.png)
-
 
 [Image Metrics](http://www.image-metrics.com/): Augmented Reality mobile facial animation apps (2015-2016)
 ---------------------------------------------------------------------
