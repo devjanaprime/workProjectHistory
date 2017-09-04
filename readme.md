@@ -12,7 +12,7 @@ Proud Instructor/Software Engineer @ [Prime Digital Academy](http://primeacademy
 
 [Prime in Strib 9-2016](http://www.startribune.com/prime-digital-academy-is-moving-to-grain-exchange-building/394618541/)
 
-Projects
+Project History
 =========
 
 [DevNAri](http://devnari.com/): [Newt One](https://www.facebook.com/devnari/) (in development)
